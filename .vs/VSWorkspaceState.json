@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\0x03-git",
-    "\\0x03-git\\bash",
-    "\\0x03-git\\c"
+    "\\0x03-git\\bash"
   ],
-  "SelectedNode": "\\0x03-git\\README.md",
+  "SelectedNode": "\\0x03-git\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
